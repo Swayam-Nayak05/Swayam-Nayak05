@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swayam Nayak</h1>
 <h3 align="center">An aspiring full-stack developer from India</h3>
-<img align="right" alt="Coding" width="650" src="https://miro.medium.com/v2/resize:fit:1024/0*ALNL96YFdGdzWZVm.png">
+<img align="right" alt="Coding" width="550" src="https://miro.medium.com/v2/resize:fit:1024/0*ALNL96YFdGdzWZVm.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swayam-nayak05&label=Profile%20views&color=0e75b6&style=flat" alt="swayam-nayak05" /> </p>
 
