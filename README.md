@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swayam-nayak05&label=Profile%20views&color=0e75b6&style=flat" alt="swayam-nayak05" /> </p>
 
-- 🌱 I’m currently learning **Django,AWS**
+- 🌱 I’m currently learning **Django,Azure**
 
 - 💬 Ask me about **Web dev, Programming**
 
